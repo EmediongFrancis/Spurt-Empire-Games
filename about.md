@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About the Game"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Spurt! Empire Games
+Spurt! Empire Games is a thrilling strategy board game that takes you on a journey through the highs and lows of building a business empire.
+Perfect for families, friends, or professionals looking for a challenge.

@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Home"
 ---
-# Take Control of Your Empire!
-A dynamic board game where your strategy shapes success.
-[Buy Now](purchase.md)
+
+Welcome to Spurt! Empire Games - a strategy board game that combines fun and learning as you build your business empire.

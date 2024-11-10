@@ -1,0 +1,22 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+{% include header.html %}
+<section class="hero-banner">
+    <h2>Take Control of Your Empire!</h2>
+    <p>A dynamic board game where your strategy shapes success.</p>
+    <a href="/purchase" class="button">Start Building Your Empire Today!</a>
+</section>
+<section class="features">
+    <h3>Key Selling Points</h3>
+    <ul>
+        <li>Educational yet entertaining.</li>
+        <li>Suitable for various age groups.</li>
+        <li>Unique business simulation mechanics.</li>
+    </ul>
+</section>
+
+{% include footer.html %}
