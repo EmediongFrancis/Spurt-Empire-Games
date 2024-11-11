@@ -71,5 +71,3 @@ The live site will be accessible at `https://<your-username>.github.io/spurt-emp
 This project is licensed under the MIT License.
 
 ---
-
-This README provides a solid overview for anyone accessing the repository, covering setup, customization, and deployment instructions. Let me know if you'd like to add more sections or details!
