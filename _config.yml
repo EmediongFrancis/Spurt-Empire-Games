@@ -13,7 +13,7 @@ social:
 nav_links:
   - name: "Home"
     link: "/"
-  - name: "About the Game"
+  - name: "About"
     link: "/about"
   - name: "Features"
     link: "/features"
